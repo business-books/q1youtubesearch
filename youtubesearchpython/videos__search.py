@@ -35,7 +35,7 @@ class SearchVideos(RequestHandler, PageHandler, ScriptHandler):
         self.mode = mode
         self.keyword = keyword
         self.max_results = max_results
-        self.searchPreferences = "EgIQAQ%3D%3D"
+        self.searchPreferences = "EggIBRABGAMoAQ%253D%253D"
         self.language = language
         self.region = region
         self.main()
