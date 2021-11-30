@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="youtube-search-python",
+    name="q1-yt-search",
     version="1.3.2",
     author="Hitesh Kumar Saini",
     author_email="saini123hitesh@gmail.com",
